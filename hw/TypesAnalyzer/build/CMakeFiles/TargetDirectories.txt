@@ -1,0 +1,17 @@
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/intrinsics_gen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/vt_gen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/omp_gen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/acc_gen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/ARMTargetParserTableGen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/clang-tablegen-targets.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/TypesAnalyzer.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/install-TypesAnalyzer.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/install-TypesAnalyzer-stripped.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/edit_cache.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/rebuild_cache.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/list_install_components.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/install.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/install/local.dir
+/home/artem/dev/tttc_practice/hw/TypesAnalyzer/build/CMakeFiles/install/strip.dir

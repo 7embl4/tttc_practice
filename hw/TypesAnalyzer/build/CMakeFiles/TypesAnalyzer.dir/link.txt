@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wl,--gc-sections -shared  -o TypesAnalyzer.so CMakeFiles/TypesAnalyzer.dir/types_analyzer.cpp.o  -Wl,-rpath,"\$ORIGIN/../lib:/home/artem/dev/tttc_practice/build_rel/./lib:" 
